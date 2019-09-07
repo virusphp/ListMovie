@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">DaftarMovie</string>
+    <string name="nama_movie">Nama Movie</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur deleniti dolore eveniet numquam quae reiciendis saepe sunt vitae.</string>
+
+    <string-array name="data_name">
+        <item>Dark Phinix</item>
+        <item>Fast and Furious</item>
+        <item>The Caged Flower</item>
+        <item>Spider-Man</item>
+        <item>Avengers Endgame</item>
+        <item>Avengers Infinity War</item>
+        <item>Captain Marvel</item>
+        <item>Harry Potter</item>
+        <item>How to Train Dragon</item>
+        <item>Gundala</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey s new abilities to rule the galaxy.</item>
+        <item>A spinoff of The Fate of the Furious, focusing on Johnsons US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham s Deckard Shaw.</item>
+        <item>A love story of Joy and Ethan, Filipino workers based in Hong Kong. Ethan, a bartender, is keen on romantically pursuing Joy, a domestic helper who is wholly dedicated to providing for her family.</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos  actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</item>
+        <item>Harry Potter has lived under the stairs at his aunt and uncles house his whole life. But on his 11th birthday, he learns hes a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the schools kindly headmaster, Harry uncovers the truth about his parents deaths -- and about the villain whos to blame.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become their oppressed hero.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/phinix</item>
+        <item>@drawable/fast</item>
+        <item>@drawable/flower</item>
+        <item>@drawable/spider</item>
+        <item>@drawable/endgame</item>
+        <item>@drawable/infinity</item>
+        <item>@drawable/kapten</item>
+        <item>@drawable/herry</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/gundala</item>
+    </array>
 </resources>
